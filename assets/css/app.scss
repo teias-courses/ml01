@@ -1,0 +1,14 @@
+---
+---
+$primary: #41ba7e;
+// Import Main CSS file from theme
+@import "main";
+
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+body section:last-of-type {
+  padding-bottom: 12.5rem;    /* Footer height */
+}

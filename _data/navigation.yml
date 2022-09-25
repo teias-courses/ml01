@@ -1,0 +1,12 @@
+- name: Schedule
+  link: /schedule
+- name: Course Materials
+  link: /materials
+- name: Assignments
+  link: /assignments
+- name: Final Project
+  dropdown: 
+  - name: Guideline
+    link: /guideline
+  - name: Projects
+    link: /projects
