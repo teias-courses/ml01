@@ -7,3 +7,43 @@ show_sidebar: false
 
 # Course Schedule
 
+## Mehr 1401
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 1 | 2 Mehr | Introduction	| |
+| 2 | 4 Mehr | Regression | |
+| 3 | 9 Mehr | Cost function, evaluation, regularization, bias-variance | |
+| 4 | 11 Mehr  | _Practical (intro 1)_ | |
+| 5 | 16 Mehr  | Classification |  |
+| 6 | 18 Mehr  | _Practical (intro 2)_ | |
+| 7 | 23 Mehr | Clustering | |
+| 8 | 25 Mehr | _Practical (PyTorch 1)_ ||
+| 9 | 30 Mehr | Neural Networks ||
+
+## Aban 1401
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 10 | 2 Aban | _Practical (PyTorch 2)_ ||
+| 11 | 7 Aban | Neural Networks ||
+| 12 | 9 Aban | _Practical (PyTorch 3)_ ||
+| 13 | 14 Aban | Recurrent Neural Networks ||
+| 14 | 16 Aban | _Practical (PyTorch 4)_ ||
+| 15 | 21 Aban | Recurrent Neural Networks ||
+| 16 | 23 Aban | _Project Proposal_  ||
+| 17 | 28 Aban | Convolutional Neural Networks ||
+| 18 | 30 Aban | Midterm Exam ||
+
+## Azar 1401
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 19 | 5 Azar | Convolutional Neural Networks ||
+| 20 | 7 Azar | _Practical (PyTorch 2)_ ||
+| 21 | 12 Azar | Transfer Learning ||
+| 22 | 14 Azar |_Progress Report 1_ ||
+| 23 | 19 Azar |_Progress Report 1_ ||
+
+
+
