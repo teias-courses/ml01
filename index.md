@@ -47,7 +47,6 @@ icon="false"
      <img src="assets/img/nasser.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mehrdad Nasser</p>
     </div>
-    
     <div class="column is-3 has-text-centered">
      <img src="assets/img/delbari.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Zahra Delbari</p>
