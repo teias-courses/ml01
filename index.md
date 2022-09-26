@@ -44,13 +44,39 @@ icon="false"
    </h1>
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
-     <img src="assets/img/kave.jpg" height="auto" width="96" style="border-radius:100%">
+     <img src="assets/img/nasser.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mehrdad Nasser</p>
+    </div>
+    
+    <div class="column is-3 has-text-centered">
+     <img src="assets/img/delbari.jpg" height="auto" width="96" style="border-radius:100%">
+     <p class="subtitle is-5">Zahra Delbari</p>
     </div>
    </div>
    </div>
    </div>
    
    <br><br><br><br>
+  
+  <div class="columns is-multiline">        
+ 
+  <div class="column is-desktop is-half-widescreen">
+   <h1>
+    Project Mentors
+   </h1>
+   <div class="columns is-multiline">
+    <div class="column is-3 has-text-centered">
+     <img src="assets/img/kave.jpg" height="auto" width="96" style="border-radius:100%">
+     <p class="subtitle is-5">Kave Eskandari</p>
+    </div>
+    <div class="column is-3 has-text-centered">
+     <img src="assets/img/mahdi.jpg" height="auto" width="96" style="border-radius:100%">
+     <p class="subtitle is-5">Mahdi Zakizadeh</p>
+    </div>
+   </div>
+   </div>
+   </div>
+   
+ 
  
 </div>
