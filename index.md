@@ -55,7 +55,7 @@ icon="false"
    </div>
    </div>
    
-   <br><br><br><br>
+   <br>
   
   <div class="columns is-multiline">        
  
@@ -76,6 +76,6 @@ icon="false"
    </div>
    </div>
    
- 
+ <br><br><br>
  
 </div>
