@@ -14,6 +14,7 @@ icon="false"
 %}
 
 # About This Course
+The course starts with the basics of Machine Learning. The focus, however, is mostly on Neural Networks: more than half of the course is dedicated to discussing recent advances in the field of Deep Learning. There is a special emphasise on the practical aspect, with several classes on the PyTorch framework.
 
 
 
