@@ -43,7 +43,19 @@ show_sidebar: false
 | 20 | 7 Azar | _Practical (PyTorch 2)_ ||
 | 21 | 12 Azar | Transfer Learning ||
 | 22 | 14 Azar |_Progress Report 1_ ||
-| 23 | 19 Azar |_Progress Report 1_ ||
+| 23 | 19 Azar | Transformers ||
+| 24 | 21 Azar |_HW Discussion_||
+| 25 | 26 Azar | Adversarial Learning ||
+| 26 | 28 Azar |  ||
+
+
+## Dey 1401
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 27 | 3 Dey | Interpretibility ||
+| 28 | 5 Dey | _Progress Report 2_ ||
+
 
 
 
