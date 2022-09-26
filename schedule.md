@@ -40,7 +40,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 19 | 5 Azar | Convolutional Neural Networks ||
-| 20 | 7 Azar | _Practical (PyTorch 2)_ ||
+| 20 | 7 Azar | _Practical (PyTorch 5)_ ||
 | 21 | 12 Azar | Transfer Learning ||
 | 22 | 14 Azar |_Progress Report 1_ ||
 | 23 | 19 Azar | Transformers ||
