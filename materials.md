@@ -9,7 +9,7 @@ show_sidebar: false
 
 * [UW CSE416: Introduction to Machine Learning](https://courses.cs.washington.edu/courses/cse416/)<br>
 * [UW CSE446: Machine Learning](https://courses.cs.washington.edu/courses/cse446/)<br>
-* [Stanford CS229: Machine Learning](https://cs229.stanford.edu/)
+* [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) ([Andrew Ng's Machine Learning Course](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
 
 
 ### PyTorch tutorials
