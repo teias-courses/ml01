@@ -13,11 +13,11 @@ show_sidebar: false
 |------|------|------|------|
 | 1 | 2 Mehr | Introduction	| |
 | 2 | 4 Mehr | Regression | [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec1/1_regression_annotated.pdf), [[uw446]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture6/06_LinearRegression.pdf), [[cs229 notes]](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)(p8-13) |
-| 3 | 9 Mehr | Cost function, evaluation, regularization, bias-variance | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture5/05_Evaluation.pdf), [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec2/2_validation_annotated.pdf), [[cs229 notes]](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)(p103-115; p125-132)|
+| 3 | 9 Mehr | Bias-variance tradeoff, Evaluation | [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec2/2_validation_annotated.pdf)|
 | 4 | 11 Mehr  | _Practical (intro 1)_ | |
-| 5 | 16 Mehr  | Classification: Logistic Regression | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture10/10_LogisticRegression.pdf), [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec6/6_logistic_regression.pdf), [[StanfordML]](https://www.youtube.com/watch?v=-la3q9d7AKQ)(7 videos) |
+| 5 | 16 Mehr  | Regularization | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture5/05_Evaluation.pdf), [[cs229 notes]](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)(p103-115; p125-132)|
 | 6 | 18 Mehr  | _Practical (intro 2)_ | |
-| 7 | 23 Mehr | Clustering | |
+| 7 | 23 Mehr Classification: Logistic Regression | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture10/10_LogisticRegression.pdf), [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec6/6_logistic_regression.pdf), [[StanfordML]](https://www.youtube.com/watch?v=-la3q9d7AKQ)(7 videos) |
 | 8 | 25 Mehr | _Practical (PyTorch 1)_ ||
 | 9 | 30 Mehr | Neural Networks ||
 
