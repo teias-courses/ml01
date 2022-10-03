@@ -9,6 +9,7 @@ show_sidebar: false
 
 message="
 ### Announcements
+* Mehr 10: Homework #1 released (due 18th).
 " 
 icon="false"
 %}
