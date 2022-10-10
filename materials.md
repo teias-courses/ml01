@@ -10,10 +10,11 @@ show_sidebar: false
 * [UW CSE416: Introduction to Machine Learning](https://courses.cs.washington.edu/courses/cse416/)<br>
 * [UW CSE446: Machine Learning](https://courses.cs.washington.edu/courses/cse446/)<br>
 * [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) ([Andrew Ng's Machine Learning Course](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
+* [Oxford's MT16 Machine Learning](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
 
 
 ### PyTorch tutorials
-* Stanford's [introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
+* Stanford's [Introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
 * Deep learning with Pytorch, [a 60-min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 
