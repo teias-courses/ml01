@@ -22,3 +22,4 @@ show_sidebar: false
 
 * [Jensen's inequality](https://www.youtube.com/watch?v=u0_X2hX6DWE)
 * [L1 and L2 regularization](https://towardsdatascience.com/visualizing-regularization-and-the-l1-and-l2-norms-d962aa769932)
+* [Derivative](https://stats.stackexchange.com/questions/278771/how-is-the-cost-function-from-logistic-regression-differentiated) of cost function for Logistic Regression
