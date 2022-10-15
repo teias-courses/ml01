@@ -13,6 +13,10 @@ show_sidebar: false
 * [Oxford's MT16 Machine Learning](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
 
 
+### Neural Networks tutorials
+
+* Andrej Karpathy's [Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
 ### PyTorch tutorials
 * Stanford's [Introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
 * Deep learning with Pytorch, [a 60-min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
