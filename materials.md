@@ -16,6 +16,7 @@ show_sidebar: false
 ### Neural Networks tutorials
 
 * Andrej Karpathy's [Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+* Ruder's overview of [Gradient Descent techniques](https://ruder.io/optimizing-gradient-descent/)
 
 ### PyTorch tutorials
 * Stanford's [Introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
