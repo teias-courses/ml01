@@ -25,7 +25,7 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 10 | 2 Aban | _Practical (PyTorch 2)_ ||
+| 10 | 2 Aban | _Practical (PyTorch 1)_ | [[ Notebook ]] (https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb#scrollTo=afw-0Aa3mgUu)|
 | 11 | 7 Aban | Neural Networks ||
 | 12 | 9 Aban | _Practical (PyTorch 3)_ ||
 | 13 | 14 Aban | Recurrent Neural Networks ||
