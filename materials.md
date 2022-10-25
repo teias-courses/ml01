@@ -13,10 +13,11 @@ show_sidebar: false
 * [Oxford's MT16 Machine Learning](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
 
 
-### Neural Networks tutorials
+### Neural Networks 
 
 * Andrej Karpathy's [Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * Ruder's overview of [Gradient Descent techniques](https://ruder.io/optimizing-gradient-descent/)
+* Tensorflow's [Playground](https://playground.tensorflow.org/)
 
 ### PyTorch tutorials
 * Stanford's [Introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
