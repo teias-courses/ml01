@@ -16,7 +16,7 @@ show_sidebar: false
 | 3 | 9 Mehr | Bias-variance tradeoff, assessing performance  | [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec2/2_validation_annotated.pdf)|
 | 4 | 11 Mehr  | _Practical (intro 1)_ | [[Notebook]](https://github.com/teias-courses/ml01/blob/main/resources/Numpy_Matplotlib_Tutorial.ipynb) |
 | 5 | 16 Mehr  | Regularization | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture5/05_Evaluation.pdf), [[cs229 notes]](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)(p103-115; p125-132)|
-| 6 | 18 Mehr  | _Practical (intro 2)_ | [[Tutorial Notebook]](https://github.com/teias-courses/ml01/blob/main/resources/SKlearn_tutorial_1.ipynb) |
+| 6 | 18 Mehr  | _Practical (intro 2)_ | [[Notebook]](https://github.com/teias-courses/ml01/blob/main/resources/SKlearn_tutorial_1.ipynb) |
 | 7 | 23 Mehr | Classification: Logistic Regression | [[uw446 slides]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture10/10_LogisticRegression.pdf), [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec6/6_logistic_regression.pdf), [[StanfordML]](https://www.youtube.com/watch?v=-la3q9d7AKQ)(7 videos) |
 | 8 | 25 Mehr | _Practical (scikit-learn)_ ||
 | 9 | 30 Mehr | Neural Networks | _Student presentation_|
