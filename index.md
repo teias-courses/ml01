@@ -10,6 +10,8 @@ show_sidebar: false
 message="
 ### Announcements
 * Mehr 10: Homework #1 released (due 18th).
+* Mehr 26: Homework #2 released (due 9th of Aban).
+* Aban 6th: List of suggested project topics available.
 " 
 icon="false"
 %}
