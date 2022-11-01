@@ -11,7 +11,7 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 1 | 2 Mehr | Introduction	| |
+| 1 | 2 Mehr | Introduction	| [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C1-Introduction.pdf)|
 | 2 | 4 Mehr | Regression | [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec1/1_regression_annotated.pdf), [[uw446]](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture6/06_LinearRegression.pdf), [[cs229 notes]](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)(p8-13) |
 | 3 | 9 Mehr | Bias-variance tradeoff, assessing performance  | [[uw416 slides]](https://courses.cs.washington.edu/courses/cse416/20su/files/lectures/lec2/2_validation_annotated.pdf)|
 | 4 | 11 Mehr  | _Practical (intro 1)_ | [[Notebook]](https://github.com/teias-courses/ml01/blob/main/resources/Numpy_Matplotlib_Tutorial.ipynb) |
@@ -26,7 +26,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 10 | 2 Aban | _Practical (PyTorch 1)_ | [[Notebook]](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb)|
-| 11 | 7 Aban | Neural Networks ||
+| 11 | 7 Aban | Neural Networks | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C51-Fundamentals_of_neural_networks.pdf)|
 | 12 | 9 Aban | _Practical (PyTorch 2)_ ||
 | 13 | 14 Aban | Recurrent Neural Networks ||
 | 14 | 16 Aban | _Practical (PyTorch 3)_ ||
