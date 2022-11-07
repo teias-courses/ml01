@@ -22,6 +22,7 @@ show_sidebar: false
 ### PyTorch tutorials
 * Stanford's [Introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
 * Deep learning with Pytorch, [a 60-min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* UvA [PyTorch Tutorial] (https://uvadlc-notebooks.readthedocs.io/en/latest/)
 
 
 ### Others
