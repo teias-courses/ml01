@@ -27,9 +27,9 @@ show_sidebar: false
 |------|------|------|------|
 | 10 | 2 Aban | _Practical (PyTorch 1)_ | [[Notebook]](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb)|
 | 11 | 7 Aban | Neural Networks | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C51-Fundamentals_of_neural_networks.pdf)|
-| 12 | 9 Aban | _Practical (PyTorch 2)_ ||
+| 12 | 9 Aban | _Practical (PyTorch 2)_ | [[Notebook]](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)|
 | 13 | 14 Aban | Recurrent Neural Networks ||
-| 14 | 16 Aban | _Practical (PyTorch 3)_ ||
+| 14 | 16 Aban | _Practical (PyTorch 3)_ | [[Notebook]](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial4/Optimization_and_Initialization.html)|
 | 15 | 21 Aban | Recurrent Neural Networks ||
 | 16 | 23 Aban | _Project Proposal_  ||
 | 17 | 28 Aban | Convolutional Neural Networks ||
