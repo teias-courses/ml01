@@ -32,20 +32,20 @@ show_sidebar: false
 | 14 | 16 Aban | _Practical: Initialization and optimization_ | [[Notebook]](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial4/Optimization_and_Initialization.html)|
 | 15 | 21 Aban | Recurrent Neural Networks | _[Class 13 continued]_|
 | 16 | 23 Aban | _Project Proposal_  | _Student presentation_|
-| 17 | 28 Aban | Convolutional Neural Networks ||
-| 18 | 30 Aban | Midterm Exam ||
+| 17 | 28 Aban | Convolutional Neural Networks | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C71-ConvNets.pdf)|
+| 18 | 30 Aban | _Midterm Exam (cancelled MSRT)_  ||
 
 ## Azar 1401
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 19 | 5 Azar | Convolutional Neural Networks ||
-| 20 | 7 Azar | _Practical (PyTorch 4)_ ||
-| 21 | 12 Azar | Transfer Learning ||
-| 22 | 14 Azar |_Progress Report 1_ ||
-| 23 | 19 Azar | _Practical (PyTorch 5)_ ||
-| 24 | 21 Azar |_HW Discussion_||
-| 25 | 26 Azar | Transformers ||
+| 19 | 5 Azar | Convolutional Neural Networks | _[Class 17 continued]_ |
+| 20 | 7 Azar | _Midterm Exam_ & _Practical (PyTorch 4)_ ||
+| 21 | 12 Azar | Transformers ||
+| 22 | 14 Azar | Transfer Learning ||
+| 23 | 19 Azar | More about Transformers and BERT  ||
+| 24 | 21 Azar | _Practical (PyTorch 5)_ ||
+| 25 | 26 Azar | _Progress Report 1_ ||
 | 26 | 28 Azar | Adversarial Learning ||
 
 
@@ -54,7 +54,8 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 27 | 3 Dey | Interpretibility ||
-| 28 | 5 Dey | _Progress Report 2_ ||
+| 28 | 5 Dey | _HW Discussion_ ||
+| 29 | 10 Dey | _Progress Report 2_ ||
 
 
 
