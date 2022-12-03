@@ -40,9 +40,9 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 19 | 5 Azar | Convolutional Neural Networks | _[Class 17 continued]_ |
-| 20 | 7 Azar | _Midterm Exam_ & _Practical (PyTorch 4)_ ||
-| 21 | 12 Azar | Transformers ||
-| 22 | 14 Azar | Transfer Learning ||
+| 20 | 7 Azar | _Midterm Exam_ ||
+| 21 | 12 Azar | Transfer Learning and Transformers ||
+| 22 | 14 Azar | _Practical (PyTorch 4)_ ||
 | 23 | 19 Azar | More about Transformers and BERT  ||
 | 24 | 21 Azar | _Practical (PyTorch 5)_ ||
 | 25 | 26 Azar | _Progress Report 1_ ||
