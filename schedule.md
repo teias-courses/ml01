@@ -41,12 +41,12 @@ show_sidebar: false
 |------|------|------|------|
 | 19 | 5 Azar | Convolutional Neural Networks | _[Class 17 continued]_ |
 | 20 | 7 Azar | _Midterm Exam_ ||
-| 21 | 12 Azar | Transfer Learning ||
-| 22 | 14 Azar | _Practical (PyTorch 4)_ ||
+| 21 | 12 Azar | Transfer Learning | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C81-Transfer_learning.pdf)|
+| 22 | 14 Azar | _Practical: Inception, ResNet & DenseNet_ |[[Notebook]](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet.html)|
 | 23 | 19 Azar | Attention Mechanism and Transformers |[[slides]](https://github.com/teias-courses/ml01/tree/main/slides/nlp_transformers.pdf)|
-| 24 | 21 Azar | _Practical (PyTorch 5)_ ||
+| 24 | 21 Azar | _cancelled_ ||
 | 25 | 26 Azar | _Progress Report 1_ ||
-| 26 | 28 Azar | Adversarial Learning ||
+| 26 | 28 Azar | _Practical: Transformers and Multi-head Attention_ | [[Notebook]](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html) |
 
 
 ## Dey 1401
@@ -54,7 +54,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 27 | 3 Dey | Interpretibility ||
-| 28 | 5 Dey | _HW Discussion_ ||
+| 28 | 5 Dey | Adversarial Learning ||
 | 29 | 10 Dey | _Progress Report 2_ ||
 
 
