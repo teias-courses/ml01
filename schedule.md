@@ -55,7 +55,8 @@ show_sidebar: false
 |------|------|------|------|
 | 27 | 3 Dey | Interpretibility ||
 | 28 | 5 Dey | Adversarial Learning ||
-| 29 | 10 Dey | _Progress Report 2_ ||
+| 29 | 10 Dey | More on Transformers and BERT ||
+| 30 | 12 Dey | _Progress Report 2_ ||
 
 
 
