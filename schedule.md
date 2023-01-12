@@ -53,9 +53,9 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 27 | 3 Dey | Interpretibility ||
-| 28 | 5 Dey | Adversarial Learning ||
-| 29 | 10 Dey | More on Transformers and BERT ||
+| 27 | 3 Dey | Interpretibility | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C91-Interpretability.pdf)|
+| 28 | 5 Dey | Adversarial Learning | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C101-Adversarial_attacks_and_GANs.pdf) |
+| 29 | 10 Dey | More on Transformers and BERT | [[slides]](https://github.com/teias-courses/ml01/tree/main/slides/C83-More_About_Transformers.pdf) |
 | 30 | 12 Dey | _Progress Report 2_ ||
 
 
